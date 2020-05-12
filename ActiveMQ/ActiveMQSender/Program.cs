@@ -13,7 +13,7 @@ namespace ActiveMQSender
     {
         static void Main(string[] args)
         {
-            //tạo connection factory
+            //Tạo connection factory
             IConnectionFactory factory = new NMSConnectionFactory("tcp://localhost:61616");
             //tạo connection
             IConnection con = factory.CreateConnection("admin", "admin");
