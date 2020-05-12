@@ -1,0 +1,11 @@
+T:\MSMQ_Demo\MSSQ_Demo\MSSQ_Send\bin\Debug\MSSQ_Send.exe.config
+T:\MSMQ_Demo\MSSQ_Demo\MSSQ_Send\obj\Debug\MSSQ_Sender.csprojResolveAssemblyReference.cache
+T:\MSMQ_Demo\MSSQ_Demo\MSSQ_Send\obj\Debug\MSSQ_Send.F_MessageSender.resources
+T:\MSMQ_Demo\MSSQ_Demo\MSSQ_Send\obj\Debug\MSSQ_Send.Properties.Resources.resources
+T:\MSMQ_Demo\MSSQ_Demo\MSSQ_Send\obj\Debug\MSSQ_Sender.csproj.GenerateResource.Cache
+T:\MSMQ_Demo\MSSQ_Demo\MSSQ_Send\bin\Debug\MSSQ_Send.exe
+T:\MSMQ_Demo\MSSQ_Demo\MSSQ_Send\bin\Debug\MSSQ_Send.pdb
+T:\MSMQ_Demo\MSSQ_Demo\MSSQ_Send\bin\Debug\BusinessObjects.dll
+T:\MSMQ_Demo\MSSQ_Demo\MSSQ_Send\bin\Debug\BusinessObjects.pdb
+T:\MSMQ_Demo\MSSQ_Demo\MSSQ_Send\obj\Debug\MSSQ_Send.exe
+T:\MSMQ_Demo\MSSQ_Demo\MSSQ_Send\obj\Debug\MSSQ_Send.pdb

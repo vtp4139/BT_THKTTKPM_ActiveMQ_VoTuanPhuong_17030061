@@ -1,0 +1,4 @@
+T:\MSMQ_Demo\MSSQ_Demo\BusinessObjects\bin\Debug\BusinessObjects.dll
+T:\MSMQ_Demo\MSSQ_Demo\BusinessObjects\bin\Debug\BusinessObjects.pdb
+T:\MSMQ_Demo\MSSQ_Demo\BusinessObjects\obj\Debug\BusinessObjects.dll
+T:\MSMQ_Demo\MSSQ_Demo\BusinessObjects\obj\Debug\BusinessObjects.pdb

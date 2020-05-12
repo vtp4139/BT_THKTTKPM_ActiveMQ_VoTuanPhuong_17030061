@@ -1,0 +1,10 @@
+T:\MSMQ_Demo\MSSQ_Demo\MSSQ_Receive\bin\Debug\MSSQ_Receive.exe.config
+T:\MSMQ_Demo\MSSQ_Demo\MSSQ_Receive\bin\Debug\MSSQ_Receive.exe
+T:\MSMQ_Demo\MSSQ_Demo\MSSQ_Receive\bin\Debug\MSSQ_Receive.pdb
+T:\MSMQ_Demo\MSSQ_Demo\MSSQ_Receive\bin\Debug\BusinessObjects.dll
+T:\MSMQ_Demo\MSSQ_Demo\MSSQ_Receive\bin\Debug\BusinessObjects.pdb
+T:\MSMQ_Demo\MSSQ_Demo\MSSQ_Receive\obj\Debug\MSSQ_Receive.F_MessageReceive.resources
+T:\MSMQ_Demo\MSSQ_Demo\MSSQ_Receive\obj\Debug\MSSQ_Receive.Properties.Resources.resources
+T:\MSMQ_Demo\MSSQ_Demo\MSSQ_Receive\obj\Debug\MSSQ_Receive.csproj.GenerateResource.Cache
+T:\MSMQ_Demo\MSSQ_Demo\MSSQ_Receive\obj\Debug\MSSQ_Receive.exe
+T:\MSMQ_Demo\MSSQ_Demo\MSSQ_Receive\obj\Debug\MSSQ_Receive.pdb
