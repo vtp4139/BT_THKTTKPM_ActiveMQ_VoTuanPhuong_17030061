@@ -13,7 +13,6 @@ namespace ActiveMQSender
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Sending message. Enter to exit.");
             //tạo connection factory
             IConnectionFactory factory = new NMSConnectionFactory("tcp://localhost:61616");
             //tạo connection
@@ -27,13 +26,20 @@ namespace ActiveMQSender
             //send messageHướng 
 
              //biến đối tượng thành XML document String
-            Person p = new Person(17030061, "votuanphuong", new DateTime());
+            Person p = new Person(17030061, "votuanphuong", new DateTime(1999,11,01));
 
             //string xml = genXML(p).ToLower();
             string xml = new XMLObjectConverter<Person>().object2XML(p);
             Console.WriteLine(xml.ToLower());
-            IMessage msg = new ActiveMQTextMessage("This is ActiveMQ Message !");
+
+            //Tạo message và gửi đi
+            Console.WriteLine("Nhap message: ");
+            String m = Console.ReadLine();
+
+            IMessage msg = new ActiveMQTextMessage(m);
             producer.Send(msg);
+
+            Console.WriteLine("Sending message. Enter to exit !");
             //shutdown
             session.Close();
             con.Close();

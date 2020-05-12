@@ -13,7 +13,7 @@ namespace ActiveMQReceiver
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("receiving message. Enter to exit.");
+            Console.WriteLine("Receiving message. Enter to exit.");
             //tạo connection factory
             IConnectionFactory factory = new ConnectionFactory("tcp://localhost:61616");
             //tạo connection
@@ -34,7 +34,7 @@ namespace ActiveMQReceiver
             if (message is ActiveMQTextMessage)
             {
                 ActiveMQTextMessage msg = message as ActiveMQTextMessage;
-                Console.WriteLine("receive:" + msg.Text);
+                Console.WriteLine("Receive:" + msg.Text);
             }
         }
     }

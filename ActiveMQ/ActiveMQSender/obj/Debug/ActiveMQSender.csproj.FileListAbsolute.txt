@@ -11,3 +11,15 @@ C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\Message_Queue_Demo\Message_Queue_Demo\
 C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\Message_Queue_Demo\Message_Queue_Demo\ActiveMQ\ActiveMQSender\obj\Debug\ActiveMQSender.csproj.CopyComplete
 C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\Message_Queue_Demo\Message_Queue_Demo\ActiveMQ\ActiveMQSender\obj\Debug\ActiveMQSender.exe
 C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\Message_Queue_Demo\Message_Queue_Demo\ActiveMQ\ActiveMQSender\obj\Debug\ActiveMQSender.pdb
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\Message_Queue_Demo\BT_THKTTKPM_ActiveMQ_VoTuanPhuong_17030061\ActiveMQ\ActiveMQSender\bin\Debug\ActiveMQSender.exe.config
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\Message_Queue_Demo\BT_THKTTKPM_ActiveMQ_VoTuanPhuong_17030061\ActiveMQ\ActiveMQSender\bin\Debug\ActiveMQSender.exe
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\Message_Queue_Demo\BT_THKTTKPM_ActiveMQ_VoTuanPhuong_17030061\ActiveMQ\ActiveMQSender\bin\Debug\ActiveMQSender.pdb
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\Message_Queue_Demo\BT_THKTTKPM_ActiveMQ_VoTuanPhuong_17030061\ActiveMQ\ActiveMQSender\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\Message_Queue_Demo\BT_THKTTKPM_ActiveMQ_VoTuanPhuong_17030061\ActiveMQ\ActiveMQSender\bin\Debug\Apache.NMS.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\Message_Queue_Demo\BT_THKTTKPM_ActiveMQ_VoTuanPhuong_17030061\ActiveMQ\ActiveMQSender\bin\Debug\Apache.NMS.ActiveMQ.pdb
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\Message_Queue_Demo\BT_THKTTKPM_ActiveMQ_VoTuanPhuong_17030061\ActiveMQ\ActiveMQSender\bin\Debug\Apache.NMS.ActiveMQ.xml
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\Message_Queue_Demo\BT_THKTTKPM_ActiveMQ_VoTuanPhuong_17030061\ActiveMQ\ActiveMQSender\obj\Debug\ActiveMQSender.csprojAssemblyReference.cache
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\Message_Queue_Demo\BT_THKTTKPM_ActiveMQ_VoTuanPhuong_17030061\ActiveMQ\ActiveMQSender\obj\Debug\ActiveMQSender.csproj.CoreCompileInputs.cache
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\Message_Queue_Demo\BT_THKTTKPM_ActiveMQ_VoTuanPhuong_17030061\ActiveMQ\ActiveMQSender\obj\Debug\ActiveMQSender.csproj.CopyComplete
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\Message_Queue_Demo\BT_THKTTKPM_ActiveMQ_VoTuanPhuong_17030061\ActiveMQ\ActiveMQSender\obj\Debug\ActiveMQSender.exe
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\Message_Queue_Demo\BT_THKTTKPM_ActiveMQ_VoTuanPhuong_17030061\ActiveMQ\ActiveMQSender\obj\Debug\ActiveMQSender.pdb
